@@ -1,3 +1,4 @@
-# My Awesome Book
+# Chapitre 1
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Nous n'étions que peu nombreux à bord du bateau qui nous menait vers Tadoussac, à travers le froid et la brume matinale.
+
