@@ -1,3 +1,4 @@
-# First Chapter
+# Chapitre 1
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Nous n'étions que peu nombreux à bord du bateau qui nous menait vers Tadoussac, à travers le froid et la brume matinale. Le cheval n'était plus là.
+
